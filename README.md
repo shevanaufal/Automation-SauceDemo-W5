@@ -10,5 +10,6 @@ Automation list:
 3. Logout
 4. Add to cart
 5. Remove add to cart
+6. Checkout product
 
 You can also check the html report for the testing by open the HTML_report in your browser
